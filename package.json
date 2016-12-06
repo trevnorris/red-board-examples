@@ -1,0 +1,25 @@
+{
+  "name": "red-board-examples",
+  "version": "0.1.0",
+  "description": "examples for my RedBoard",
+  "homepage": "https://github.com/trevnorris/red-board-examples",
+  "main": "./main.js",
+  "author": {
+    "name": "Trevor Norris",
+    "email": "trev.norris@gmail.com",
+    "url": "http://trevnorris.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trevnorris/red-board-examples.git"
+  },
+  "dependencies": {
+    "johnny-five": "^0.10.6"
+  }
+}
